@@ -1,3 +1,2 @@
 # myPortfolio
-# IndependentProjectJokeGenerator
-# IndependentProjectJokeGenerator
+
